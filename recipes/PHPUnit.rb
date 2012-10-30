@@ -20,7 +20,7 @@
 include_recipe "chef-php-extra::pear"
 
 channels = [
-    "pear.symfony-project.com",
+    "pear.symfony.com",
     "components.ez.no"
 ]
 
